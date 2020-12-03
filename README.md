@@ -15,7 +15,7 @@ Para utilizar, primeiro deverá incluir o arquivo accept-text.js em algum diret�
     // Após ter adicionado o arquivo na pasta /assets/js/
     <body>
         ...
-        <script type='text/javascript' src='assets/js/accept-text.js'></script>
+        <script type='text/javascript' src='assets/js/accept-text.js' charset="utf-8"></script>
     </body>
 
 Após isso, o próximo passo é adicionar dentro de cada <Form> a única div necessária antes do botão Enviar de cada formulário.
